@@ -1,3 +1,6 @@
 app:
   some:
-    config: "a,b,c"
+    config:
+      - a
+      - b
+      - c
